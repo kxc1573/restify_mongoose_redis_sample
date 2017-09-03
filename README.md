@@ -1,0 +1,2 @@
+# restify_mongoose_redis_sample
+一个使用restify+mongoose+redis进行node开发的示例
