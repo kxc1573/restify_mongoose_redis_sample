@@ -1,0 +1,20 @@
+{
+  "name": "restify_mongoose_redis_sample",
+  "version": "0.0.1",
+  "description": "a node sample about restify + mongoose + redis",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kxc1573/restify_mongoose_redis_sample.git"
+  },
+  "author": "kxc1573",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.11.4",
+    "redis": "^2.8.0",
+    "restify": "^5.0.1"
+  }
+}
