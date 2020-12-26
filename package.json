@@ -13,7 +13,7 @@
   "author": "kxc1573",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^4.11.4",
+    "mongoose": "^5.7.5",
     "redis": "^2.8.0",
     "restify": "^5.0.1"
   }
